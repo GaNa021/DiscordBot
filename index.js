@@ -22,7 +22,6 @@ client.on('messageCreate', (message) =>
     //
     //Binding message listener to a channel
     //if(message.channel.id != '887680447155429376') return;
-    //if(message.author.id == "975672156098789386") message.channel.send('hello madam');
     
     //
     //if the message is sent by bot , then nothing will happen
